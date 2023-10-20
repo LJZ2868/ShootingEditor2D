@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIRoot>
+	<Panel uiPanelPath="UI/MainPanel" name="MainPanel"/>
+	<Panel uiPanelPath="UI/EndPanel" name="EndPanel"/>
+</UIRoot>

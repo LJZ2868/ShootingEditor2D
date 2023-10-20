@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+	<ShopItem name="Game/Prop/AddMaxHP" x="-9" y="-6" tag="Prop"/>
+	<ShopItem name="Game/Prop/AddATK" x="0" y="-6" tag="Prop"/>
+	<ShopItem name="Game/Prop/AddMoveSpeed" x="9" y="-6" tag="Prop"/>
+</Shop>

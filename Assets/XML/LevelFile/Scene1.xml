@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level>
+	<LevelItem name="Game/Player/Player" x="-12" y="-8" tag="Player"/>
+	
+	<LevelItem name="Game/Level/Grid0" x="0" y="0" tag="Level"/>
+	<LevelItem name="Game/Level/Grid1" x="34" y="0" tag="Level"/>
+	<LevelItem name="Game/Level/Grid2" x="68" y="0" tag="Level"/>
+	
+	<LevelItem name="Game/Level/GamePass" x="85.5" y="-8.5" tag="NextScene"/>
+</Level>
+<!--<LevelItem name="Game/Level/NextLevel" x="15" y="-8" tag="NextLevel"/>
+	<LevelItem name="Game/Level/NextLevel" x="19" y="-8" tag="NextLevel"/>
+	<LevelItem name="Game/Level/NextLevel" x="49" y="-8" tag="NextLevel"/>
+	<LevelItem name="Game/Level/NextLevel" x="53" y="-8" tag="NextLevel"/>
+	
+	<LevelItem name="Game/Level/CreateEnemy" x="19.2" y="-7.5" tag="NextLevel"/>
+	<LevelItem name="Game/Level/CreateEnemy" x="53.2" y="-7.5" tag="NextLevel"/>-->

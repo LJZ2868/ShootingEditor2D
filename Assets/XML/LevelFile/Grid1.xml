@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level>
+	<LevelItem name="Game/Prop/AddMaxHP" x="13" y="6" tag="Prop"/>
+	<LevelItem name="Game/Enemy/CrossEnemy" x="-9" y="-6" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/CrossEnemy" x="-5" y="-6" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/LaserEnemy" x="5" y="-3" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/CrossEnemy" x="5" y="1" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/NormalEnemy" x="-5" y="5" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/NormalEnemy" x="1" y="-8.5" tag="Enemy"/>
+</Level>
+<!--<LevelItem name="Game/Enemy/CrossEnemy" x="-5" y="-6" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/LaserEnemy" x="5" y="-3" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/CrossEnemy" x="5" y="1" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/NormalEnemy" x="-5" y="5" tag="Enemy"/>
+	<LevelItem name="Game/Enemy/NormalEnemy" x="1" y="-8.5" tag="Enemy"/>-->

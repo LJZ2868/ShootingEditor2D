@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - UIRoot
+  - LevelManager
+  - Room
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PlayerBullet
+  - Enemy
+  - Player
+  - EnemyBullet
+  - Platform
+  - NextLevel
+  - Boss
+  - Prop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 4270600031
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: middle
+    uniqueID: 2612648717
+    locked: 0
+  - name: front
+    uniqueID: 3425769565
+    locked: 0

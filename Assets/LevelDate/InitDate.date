@@ -1,0 +1,70 @@
+{
+    "target": [
+        {
+            "Name": "CM vcam1",
+            "Path": "Game/CM vcam1",
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -10.0
+            },
+            "Tag": "Camera",
+            "IsRoomClear": false
+        },
+        {
+            "Name": "Player",
+            "Path": "Game/Player/Player",
+            "Position": {
+                "x": -10.127249002456665,
+                "y": -8.484981536865235,
+                "z": 0.0
+            },
+            "Tag": "Player",
+            "IsRoomClear": false
+        },
+        {
+            "Name": "Grid0",
+            "Path": "Game/Level/Grid0",
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Tag": "Room",
+            "IsRoomClear": true
+        },
+        {
+            "Name": "Grid1",
+            "Path": "Game/Level/Grid1",
+            "Position": {
+                "x": 34.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Tag": "Room",
+            "IsRoomClear": false
+        },
+        {
+            "Name": "Grid2",
+            "Path": "Game/Level/Grid2",
+            "Position": {
+                "x": 68.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Tag": "Room",
+            "IsRoomClear": false
+        },
+        {
+            "Name": "Grid3",
+            "Path": "Game/Level/Grid3",
+            "Position": {
+                "x": 102.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Tag": "Room",
+            "IsRoomClear": false
+        }
+    ]
+}

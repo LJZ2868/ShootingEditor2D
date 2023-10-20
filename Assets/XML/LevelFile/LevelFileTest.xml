@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level>
+	<LevelItem name="Game/Player/Player" x="-12" y="-8"/>
+	<LevelItem name="Game/Enemy/NormalEnemy" x="10" y="-8"/>
+	<LevelItem name="Game/Enemy/LaserEnemy" x="13" y="-8"/>
+	<LevelItem name="Game/Prop/AddMaxHP" x="-10" y="-2.5"/>
+	<LevelItem name="Game/Enemy/CrossEnemy" x="0" y="-3"/>
+</Level>

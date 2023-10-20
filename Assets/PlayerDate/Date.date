@@ -1,0 +1,15 @@
+{
+    "MaxHP": 3,
+    "HP": 3.0,
+    "ATK": 1.0,
+    "Speed": 330.0,
+    "FiringRate": 1.0,
+    "ReloadSeconds": 1.0,
+    "MaxClip": 1,
+    "BulletSpeed": 10.0,
+    "Flight": 1.0,
+    "MaxDodgeCD": 4.0,
+    "MaxHoldTime": 1.0,
+    "IsCanDodge": true,
+    "CharacterSelectCount": 1
+}

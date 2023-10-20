@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayerInfo>
+  <PlayerItem name="_MaxHP" value="3" />
+  <PlayerItem name="_HP" value="3" />
+  <PlayerItem name="_ATK" value="1" />
+</PlayerInfo>
