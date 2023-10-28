@@ -1,0 +1,2 @@
+# ShootingEditor2D
+使用FrameworkDesign制作的2d平台射击demo
